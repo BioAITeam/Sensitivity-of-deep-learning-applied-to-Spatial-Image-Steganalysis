@@ -48,19 +48,22 @@ conda install -c anaconda scikit-image
 ## Execution
 After installing all the Requirements, you must clone the repository using.
 ```
-git clone https://github.com/BioAITeam/
-Strategy-to-improve-CNN-applied-to-digital-image-steganalysis-in-the-spatial-domain.git
+git clone https://github.com/BioAITeam/Sensitivity-of-Deep-Learning-Applied-to-Spatial-Image-Steganalysis.git
 ```
-If you will use colab, upload the cloned folder to drive, then open the folder "CNNs and SRM filters" and run the notebook of your choice.
+If you will use colab, upload the cloned folder to drive, then open the folder of your choice and run either of the two notebooks.
 
 if you are going to use your computer, install:
 ```
 conda install jupyter 
 ```
-Enter the cloned folder, then enter the "CNNs and SRM filters" folder and run the notebook of your choice.
+Enter the cloned folder, hen open the folder of your choice and run either of the two notebooks.
 
 ## Note 
 Before running the notebook, please verify that the file paths are correct.
 ## Databases
 
+### NPY
 The data set used to reproduce the results can be downloaded from this <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">link</a>. Images taken from: <a href="http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials">BOSS competition</a> and <a href="http://bows2.ec-lille.fr/index.php?mode=VIEW&tmpl=index1">BOWS2</a>.
+
+### PGM
+
