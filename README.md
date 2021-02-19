@@ -62,8 +62,8 @@ Enter the cloned folder, hen open the folder of your choice and run either of th
 Before running the notebook, please verify that the file paths are correct.
 ## Databases
 
-### NPY
+#### NPY
 The data set used to reproduce the results can be downloaded from this <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">link</a>. Images taken from: <a href="http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials">BOSS competition</a> and <a href="http://bows2.ec-lille.fr/index.php?mode=VIEW&tmpl=index1">BOWS2</a>.
 
-### PGM
+#### PGM
 
