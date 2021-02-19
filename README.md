@@ -18,6 +18,8 @@ This repository requires the following libraries and frameworks:
 - Time
 - random
 - os
+- scikit-image
+- glob
 
 This repository was developed in the Python3 (3.8) programming language.
 
@@ -25,11 +27,11 @@ This repository was developed in the Python3 (3.8) programming language.
 
 if you don't use google colab, We highly recommend to use and install Python packages within an Anaconda enviroment. To create, execute the command below:
 ```
-conda create --name Strategy python=3.8
+conda create --name Sensitivity python=3.8
 ```
 So, activate it
 ```
-conda activate Strategy 
+conda activate Sensitivity 
 ```
 installed the framework
 ```
@@ -41,6 +43,7 @@ pip install opencv-python
 conda install -c conda-forge matplotlib
 conda install -c jmcmurray os
 conda install -c conda-forge time
+conda install -c anaconda scikit-image
 ```
 ## Execution
 After installing all the Requirements, you must clone the repository using.
