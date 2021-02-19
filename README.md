@@ -65,6 +65,6 @@ Before running the notebook, please verify that the file paths are correct.
 
 The data set used to reproduce the results can be downloaded from this <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">link</a>. Images taken from: <a href="http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials">BOSS competition</a> and <a href="http://bows2.ec-lille.fr/index.php?mode=VIEW&tmpl=index1">BOWS2</a>.
 #### NPY
-after accessing the link, enter the strategy folder 
+After accessing the link, enter the strategy folder 
 #### PGM
-after accessing the link, enter the GBRAS-Net folder 
+After accessing the link, enter the GBRAS-Net folder 
