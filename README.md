@@ -5,7 +5,7 @@ In recent years, the traditional approach to spatial image steganalysis has shif
 - **CNN input** This folder contains the notebooks Xu-Net and Ye-Net with three different approaches; Usual(providing all the cover images, then all the stego images), Random(random positions of cover and stego images), and order (alter-nates cover and stego images).
 - **Database partition** This folder contains the notebooks Xu-Net and Ye-Net with different data partitions.
 - **Image normalization** This folder contains the notebooks Xu-Net and Ye-Net with different image normalization.
-- **SRM filters normalization** This folder contains the notebooks Xu-Net and Ye-Net with different image normalization and SRM filters normalization.
+- **SRM filters normalization** This folder contains the notebooks Xu-Net and Ye-Net with different image normalization, and SRM filters normalization.
 
  
 ## Requirements
