@@ -6,6 +6,7 @@ In recent years, the traditional approach to spatial image steganalysis has shif
 - **Database partition** This folder contains the notebooks Xu-Net and Ye-Net with different data partitions.
 - **Image normalization** This folder contains the notebooks Xu-Net and Ye-Net with different image normalization.
 - **SRM filters normalization** This folder contains the notebooks Xu-Net and Ye-Net with different image normalization, and SRM filters normalization.
+- **Trained model** This folder contains the Ye-Net weights with WOW 0.4 bpp.
 
  
 ## Requirements
