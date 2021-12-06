@@ -23,7 +23,7 @@ Tabares-Soto R, Arteaga-Arteaga HB, Mora-Rubio A, Bravo-Ortíz MA, Arias-Garzón
 }
 ```
 
-This paper was published as a journal paper in IEEE Access. ([Webpage](https://peerj.com/articles/cs-616/))
+This paper was published as a journal paper in PeerJ Computer Science. ([Webpage](https://peerj.com/articles/cs-616/))
 
 ## Folders
 - **Activation maps** This folder contains a notebook for getting Ye-Net activation maps.
