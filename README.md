@@ -1,5 +1,30 @@
 # Sensitivity of deep learning applied to Spatial Image Steganalysis
 In recent years, the traditional approach to spatial image steganalysis has shifted to Deep Learning (DL) techniques, which have improved the detection accuracy while combining feature extraction and classification in a single model, usually, a Convolutional Neural Network (CNN). The main contribution from researchers in this area are new architectures that further improve the detection accuracy. Nevertheless, the preprocessing and partition of the database influence the overall performance of the CNN. This paper presents the results achieved by novel steganalysis networks (Xu-Net, Ye-Net, Yedroudj-Net, SR-Net, Zhu-Net, and GBRAS-Net) using different combinations of image and filter normalization ranges, various database splits, a diverse composition of the training mini-batches, different activation functions for the preprocessing stage, as well as an analysis on the activation maps and how to report accuracy. These results demonstrate how sensible steganalysis systems are to changes in any stage of the process and how important it is for researchers in this field to register and report their work thoroughly. We also propose a set of recommendations for the design of experiments in steganalysis with DL.
+
+## Citing
+
+If you use our project for your research or if you find this paper and repository helpful, please consider citing the work:
+
+Tabares-Soto R, Arteaga-Arteaga HB, Mora-Rubio A, Bravo-Ortíz MA, Arias-Garzón D, Alzate-Grisales JA, Orozco-Arias S, Isaza G, Ramos-Pollán R. 2021. Sensitivity of deep learning applied to spatial image steganalysis. PeerJ Computer Science 7:e616 [https://doi.org/10.7717/peerj-cs.616](https://doi.org/10.7717/peerj-cs.616)
+
+```
+@article{10.7717/peerj-cs.616,
+ title = {Sensitivity of deep learning applied to spatial image steganalysis},
+ author = {Tabares-Soto, Reinel and Arteaga-Arteaga, Harold Brayan and Mora-Rubio, Alejandro and Bravo-Ortíz, Mario Alejandro and Arias-Garzón, Daniel and Alzate-Grisales, Jesús Alejandro and Orozco-Arias, Simon and Isaza, Gustavo and Ramos-Pollán, Raúl},
+ year = 2021,
+ month = aug,
+ keywords = {Convolutional neural network, Deep learning, Steganalysis, Steganography, Sensitivity},
+ volume = 7,
+ pages = {e616},
+ journal = {PeerJ Computer Science},
+ issn = {2376-5992},
+ url = {https://doi.org/10.7717/peerj-cs.616},
+ doi = {10.7717/peerj-cs.616}
+}
+```
+
+This paper was published as a journal paper in IEEE Access. ([Webpage](https://peerj.com/articles/cs-616/))
+
 ## Folders
 - **Activation maps** This folder contains a notebook for getting Ye-Net activation maps.
 - **CNN input** This folder contains the notebook Ye-Net  with three different approaches; Usual(providing all the cover images, then all the stego images), Random(random positions of cover and stego images), and order (alter-nates cover and stego images).
